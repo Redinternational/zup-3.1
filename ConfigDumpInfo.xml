@@ -9,12 +9,14 @@
 		<Metadata name="Catalog.Номенклатура" id="cf4ecd27-0f54-458d-8d2a-8a5e5cd8d766" configVersion="002a883878a9a74091d19750ff036b4700000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат" id="b00b5297-19fb-442e-95ff-07d6ec7887e6" configVersion="f5fddb2d1149524d94f740a95367423400000000"/>
 		<Metadata name="Configuration.Конфигурация" id="1e0a7afc-26d5-4552-8acb-3b3047a2de5d" configVersion="08ca3a81fe71e744a403b1cceb6f90bd00000000"/>
-		<Metadata name="Document.ПКО" id="248217e1-4f41-4e4e-869e-531f303c124d" configVersion="84e2bbe73466be4f91efd7a3af92c78400000000">
+		<Metadata name="Document.ПКО" id="248217e1-4f41-4e4e-869e-531f303c124d" configVersion="778bdcb62696e4449455adf2a943d54d00000000">
 			<Metadata name="Document.ПКО.TabularSection.Данные" id="642f5c3f-0c15-46d7-9a99-ddcdf0f11310"/>
 			<Metadata name="Document.ПКО.TabularSection.Данные.Attribute.Номенклатура" id="75933b20-5305-4bcd-a33b-10b35653ef61"/>
 			<Metadata name="Document.ПКО.TabularSection.Данные.Attribute.Сумма" id="b97f6b45-ba28-4095-b1fb-9f4dbc8e6ef4"/>
 			<Metadata name="Document.ПКО.TabularSection.Данные.Attribute.СтатьяЗатрат" id="ebe410fa-c1d4-48f7-8be6-ed38c1983476"/>
 		</Metadata>
+		<Metadata name="Document.ПКО.Form.ФормаДокумента" id="4baa7bb4-dd31-475e-9cac-51be621a4488" configVersion="788a00ab0b84244eac51e3d9ad42974700000000"/>
+		<Metadata name="Document.ПКО.Form.ФормаДокумента.Form" id="4baa7bb4-dd31-475e-9cac-51be621a4488.0" configVersion="b9f93785f828aa4d8c8782240392092400000000"/>
 		<Metadata name="Document.ПКО.ObjectModule" id="248217e1-4f41-4e4e-869e-531f303c124d.0" configVersion="7fc65628c51c4642953bad4974da556900000000"/>
 		<Metadata name="Document.Расшифровка" id="47353488-3194-4c13-8fed-8151948d5f33" configVersion="7dd7d93f915dd94c99f6a3e12b2ccadb00000000"/>
 		<Metadata name="Language.Русский" id="9dd4286e-4c2e-4a8d-bd20-604027aec510" configVersion="656701f6623b3b4f9d2a4e2e84771b4000000000"/>
